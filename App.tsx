@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from 'react';
-import { CHARACTERS, FACTIONS, TIMELINE, FACTION_ICONS } from './constants.tsx';
+import { CHARACTERS, FACTIONS, TIMELINE, FACTION_ICONS } from './constants';
 import GlitchText from './components/GlitchText';
 import CharacterCard from './components/CharacterCard';
 import { FactionType } from './types';
